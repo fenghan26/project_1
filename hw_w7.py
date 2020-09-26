@@ -18,6 +18,6 @@ while True:
         elif value>largest:
             largest=value
     else:
-        print('Invalid input')
+        print('Invalid input, please correct it')
 print('Maximum is',largest)
 print('Minimum is',smallest)
